@@ -1,0 +1,9 @@
+create_dir.sh
+Problem1.sh
+Problem2.sh
+Problem3.sh
+Problem4.sh
+Problem5.sh
+store data.txt
+store.txt
+testdir
